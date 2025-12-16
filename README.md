@@ -21,20 +21,22 @@ A complete implementation of the strategy board game **Quoridor** in Java, devel
 
 ### 1. Main Menu
 ![Main Menu](https://github.com/Youssef-ashraff/CSE472s-Quoridor-Game-Implementation/blob/main/Screenshot%202025-12-16%20123237.png)
+
 *Select Game Mode and AI Difficulty.*
 
 ### 2. Gameplay (Human vs. Bot)
-![Gameplay Action](screenshots/gameplay.png)
+![Gameplay Action](https://github.com/Youssef-ashraff/CSE472s-Quoridor-Game-Implementation/blob/main/Screenshot%202025-12-16%20123340.png)
+
 *Visualizing valid moves (green) and placed walls (orange).*
 
 ### 3. Winning State
-![Game Over](screenshots/win.png)
+![Game Over](https://github.com/Youssef-ashraff/CSE472s-Quoridor-Game-Implementation/blob/main/Screenshot%202025-12-16%20123506.png)
+
 *Winner announcement.*
 
 ## 🎥 Demo Video
 **[Click Here to Watch the Demo Video](INSERT_YOUR_YOUTUBE_OR_DRIVE_LINK_HERE)**
 
-[cite_start]*(Please insert the link to your 3-5 minute video demonstrating gameplay here)*[cite: 64].
 
 ## ⚙️ Installation and Running Instructions
 
@@ -46,7 +48,7 @@ A complete implementation of the strategy board game **Quoridor** in Java, devel
 ### How to Run
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YourUsername/Quoridor-AI.git](https://github.com/YourUsername/Quoridor-AI.git)
+    git clone [https://github.com/Youssef-ashraff/CSE472s-Quoridor-Game-Implementation.git](https://github.com/Youssef-ashraff/CSE472s-Quoridor-Game-Implementation.git)
     ```
 2.  **Open in IDE:**
     * Open the project folder in your IDE.
