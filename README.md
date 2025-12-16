@@ -6,15 +6,15 @@ A complete implementation of the strategy board game **Quoridor** in Java, devel
 
 ## 📖 Game Description
 **Quoridor** is a 2-player strategy board game played on a 9x9 grid.
-* [cite_start]**Objective:** The goal is to be the first player to move their pawn to any square on the opposite side of the board[cite: 12].
-* [cite_start]**Pieces:** Each player controls one pawn and starts with **10 walls**[cite: 11].
+* **Objective:** The goal is to be the first player to move their pawn to any square on the opposite side of the board[cite: 12].
+* **Pieces:** Each player controls one pawn and starts with **10 walls**[cite: 11].
 * **Gameplay:** On your turn, you may either:
     1.  **Move your pawn** one square orthogonally (horizontally or vertically).
     2.  **Place a wall** to block your opponent's path.
 * **Rules:**
-    * [cite_start]Walls are 2 squares long and cannot overlap or cross other walls[cite: 21].
-    * [cite_start]You cannot place a wall that completely locks a player in; a valid path to the goal must always exist[cite: 22].
-    * [cite_start]Pawns can jump over adjacent opponents[cite: 17].
+    * Walls are 2 squares long and cannot overlap or cross other walls.
+    * You cannot place a wall that completely locks a player in; a valid path to the goal must always exist[cite: 22].
+    * Pawns can jump over adjacent opponents.
 
 ## 📸 Screenshots
 *(Replace the text below with your actual images after uploading them to a 'screenshots' folder in your repo)*
