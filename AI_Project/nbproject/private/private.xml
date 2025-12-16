@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/LENOVO/OneDrive%20-%20Faculty%20of%20Engineering%20Ain%20Shams%20University/Desktop/AI_Project/src/ai_project/AI_Project.java</file>
+            <file>file:/C:/Users/LENOVO/OneDrive%20-%20Faculty%20of%20Engineering%20Ain%20Shams%20University/Desktop/AI_Project/src/ai_project/board/model/Move.java</file>
+            <file>file:/C:/Users/LENOVO/OneDrive%20-%20Faculty%20of%20Engineering%20Ain%20Shams%20University/Desktop/AI_Project/src/ai_project/board/QuoridorBoard.java</file>
+            <file>file:/C:/Users/LENOVO/OneDrive%20-%20Faculty%20of%20Engineering%20Ain%20Shams%20University/Desktop/AI_Project/src/ai_project/board/model/Pos.java</file>
+            <file>file:/C:/Users/LENOVO/OneDrive%20-%20Faculty%20of%20Engineering%20Ain%20Shams%20University/Desktop/AI_Project/src/ai_project/board/model/WallOrientation.java</file>
+            <file>file:/C:/Users/LENOVO/OneDrive%20-%20Faculty%20of%20Engineering%20Ain%20Shams%20University/Desktop/AI_Project/src/ai_project/search/MinimaxSearch.java</file>
+            <file>file:/C:/Users/LENOVO/OneDrive%20-%20Faculty%20of%20Engineering%20Ain%20Shams%20University/Desktop/AI_Project/src/ai_project/eval/PathLengthEvaluation.java</file>
+            <file>file:/C:/Users/LENOVO/OneDrive%20-%20Faculty%20of%20Engineering%20Ain%20Shams%20University/Desktop/AI_Project/src/ai_project/board/model/MoveKind.java</file>
+            <file>file:/C:/Users/LENOVO/OneDrive%20-%20Faculty%20of%20Engineering%20Ain%20Shams%20University/Desktop/AI_Project/src/ai_project/agent/AIBot.java</file>
+        </group>
+    </open-files>
+</project-private>
