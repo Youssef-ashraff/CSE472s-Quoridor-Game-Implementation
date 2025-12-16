@@ -20,7 +20,7 @@ A complete implementation of the strategy board game **Quoridor** in Java, devel
 *(Replace the text below with your actual images after uploading them to a 'screenshots' folder in your repo)*
 
 ### 1. Main Menu
-![Main Menu](screenshots/menu.png)
+![Main Menu](https://github.com/Youssef-ashraff/CSE472s-Quoridor-Game-Implementation/blob/main/Screenshot%202025-12-16%20123237.png)
 *Select Game Mode and AI Difficulty.*
 
 ### 2. Gameplay (Human vs. Bot)
