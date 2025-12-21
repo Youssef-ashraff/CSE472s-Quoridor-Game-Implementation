@@ -29,12 +29,12 @@ A complete implementation of the strategy board game **Quoridor** in Java, devel
 *Visualizing valid moves (green) and placed walls (orange).*
 
 ### 3. Winning State
-![Game Over](https://github.com/Youssef-ashraff/CSE472s-Quoridor-Game-Implementation/blob/main/Screenshot%202025-12-16%20123506.png)
+![Game Over](https://github.com/Youssef-ashraff/CSE472s-Quoridor-Game-Implementation/blob/main/Screenshot%202025-12-21%20155037.png)
 
 *Winner announcement.*
 
 ## 🎥 Demo Video
-**[Click Here to Watch the Demo Video](INSERT_YOUR_YOUTUBE_OR_DRIVE_LINK_HERE)**
+**[Click Here to Watch the Demo Video](https://drive.google.com/file/d/1SsDJqh6u50JdepdWk5CzjZAFl8pZHzMh/view?usp=sharing)**
 
 
 ## ⚙️ Installation and Running Instructions
@@ -89,7 +89,7 @@ The game is played entirely with the mouse.
 
 ## 👥 Team Members
 * **Youssef Ashraf Mohammed** - 2201056
-* **Student 2 Name** - ID
-* **Student 3 Name** - ID
-* **Student 4 Name** - ID
-* **Student 5 Name** - ID
+* **Yousef Mahmoud Mohamed ** - 2100994
+* **Moaz Ragab Abuelmagd ** - 2100938
+* **Ahmed Ashraf Ali ** - 2100255
+* **Omar Ayman Ahmed ** - 2100728
