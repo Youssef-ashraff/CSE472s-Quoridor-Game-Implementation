@@ -89,7 +89,7 @@ The game is played entirely with the mouse.
 
 ## 👥 Team Members
 * **Youssef Ashraf Mohammed** - 2201056
-* **Yousef Mahmoud Mohamed ** - 2100994
-* **Moaz Ragab Abuelmagd ** - 2100938
-* **Ahmed Ashraf Ali ** - 2100255
-* **Omar Ayman Ahmed ** - 2100728
+* **Yousef Mahmoud Mohamed** - 2100994
+* **Moaz Ragab Abuelmagd** - 2100938
+* **Ahmed Ashraf Ali** - 2100255
+* **Omar Ayman Ahmed** - 2100728
